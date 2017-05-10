@@ -1,2 +1,2 @@
 #!/usr/bin/perl
-print 'test';
+print "test test";
