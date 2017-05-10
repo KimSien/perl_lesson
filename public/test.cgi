@@ -1,2 +1,3 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
+
 print "test test";
