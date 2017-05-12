@@ -2,4 +2,6 @@
 use strict;
 use warnings;
 
-print "test test";
+print "Content-type: text/html\n";
+print "\n";
+print "Hello World!";
